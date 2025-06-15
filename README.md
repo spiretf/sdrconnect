@@ -1,3 +1,5 @@
+# Moved to https://codeberg.org/spire/sdrconnect
+
 # SdrConnect
 
 Chat command to connect to the server via sdr
